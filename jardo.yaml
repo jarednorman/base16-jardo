@@ -1,0 +1,22 @@
+scheme: "Jardo"
+author: "Jared Norman (https://jarednorman.ca)"
+
+# Background/Foreground
+base00: "ffffff" # Default Background
+base01: "eeeeee" # Lighter Background (Used for status bars)
+base02: "e0e0e0" # Selection Background
+base03: "999999" # Comments, Invisibles, Line Highlighting
+base04: "696969" # Dark Foreground (Used for status bars)
+base05: "555555" # Default Foreground, Caret, Delimiters, Operators
+base06: "444444" # Light Foreground (Not often used)
+base07: "333333" # Light Background (Not often used)
+
+# Colours
+base08: "a5305a" # Red    - Variables, XML Tags, Markup Links, Markup Lists, Diff Deleted
+base09: "cb4524" # Orange - Integers, Boolean, Constants, XML Attributes, Markup Link Url
+base0A: "d77428" # Yellow - Classes, Markup Bold, Search Text Background
+base0B: "478143" # Green  - Strings, Inherited Class, Markup Code, Diff Inserted
+base0C: "349790" # Teal   - Support, Regular Expressions, Escape Characters, Markup Quotes
+base0D: "4a72aa" # Blue   - Functions, Methods, Attribute IDs, Headings
+base0E: "665bac" # Purple - Keywords, Storage, Selector, Markup Italic, Diff Changed
+base0F: "d349a9" # Brown? - Deprecated, Open/Close Embedded Language Tags, e.g. <?php ?>
